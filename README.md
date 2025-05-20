@@ -48,7 +48,7 @@ Show a confirmation alert on successful submission.
 
 ```bash
 # Clone the project
-git clone (https://github.com/hamishisham/Smart-form.git)
+git clone https://github.com/hamishisham/Smart-form.git
 cd smart-form
 
 # Install dependencies
